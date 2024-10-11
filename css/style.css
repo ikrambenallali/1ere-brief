@@ -302,7 +302,7 @@ a:focus {
 .slider_section .detail-box h1 {
   font-weight: bold;
   margin-bottom: 25px;
-  color: #000000;
+  color: #0c5804;
 }
 
 .slider_section .detail-box p {
@@ -377,13 +377,13 @@ a:focus {
   width: 100%;
   height: auto;
   max-height: 100%;
-  fill: #726dae;
+  fill: #010105;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
 }
 
 .feature_section .feature_container .box .img-box svg path {
-  fill: #726dae;
+  fill: #010105;
 }
 
 .feature_section .feature_container .box .name {
@@ -805,7 +805,6 @@ a:focus {
   margin-top: 25px;
   color: #fff;
   margin-bottom: 0;
-  background-color: #094714;
 }
 
 .info_items .item:hover .img-box {
